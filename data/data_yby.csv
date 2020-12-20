@@ -1,65 +1,65 @@
 Year,Missions,Mission: Success,Mission: Failure,Mission: Partial Failure,Mission: Prelaunch Failure,Mission: Non Success,Status: Active,Status: Retired,Top_organisation,Top_organisation_country,Top_organisation_count,Top_country,Top_country_count,Color
-1957,3,2,1,0,0,1,0,3,RVSN USSR,russian federation,RVSN USSR (2),russian federation,russian federation (2),#16ed9a
-1958,28,6,20,2,0,22,0,28,US Navy,usa,US Navy (12),usa,usa (23),#44405a
-1959,20,8,9,3,0,12,0,20,US Air Force,usa,US Air Force (10),usa,usa (16),#44405a
-1960,39,19,20,0,0,20,0,39,US Air Force,usa,US Air Force (21),usa,usa (30),#44405a
-1961,52,32,17,3,0,20,0,52,US Air Force,usa,US Air Force (23),usa,usa (43),#44405a
-1962,82,65,15,2,0,17,0,82,US Air Force,usa,US Air Force (41),usa,usa (60),#44405a
-1963,41,29,12,0,0,12,0,41,RVSN USSR,russian federation,RVSN USSR (24),russian federation,russian federation (24),#16ed9a
-1964,60,48,10,2,0,12,0,60,RVSN USSR,russian federation,RVSN USSR (36),russian federation,russian federation (36),#16ed9a
-1965,87,74,11,2,0,13,0,87,RVSN USSR,russian federation,RVSN USSR (53),russian federation,russian federation (53),#16ed9a
-1966,101,81,10,9,1,20,0,101,RVSN USSR,russian federation,RVSN USSR (51),russian federation,russian federation (51),#16ed9a
-1967,106,87,11,8,0,19,0,106,RVSN USSR,russian federation,RVSN USSR (74),russian federation,russian federation (75),#16ed9a
-1968,103,92,6,5,0,11,0,103,RVSN USSR,russian federation,RVSN USSR (79),russian federation,russian federation (80),#16ed9a
-1969,103,85,17,1,0,18,0,103,RVSN USSR,russian federation,RVSN USSR (82),russian federation,russian federation (83),#16ed9a
-1970,107,93,10,4,0,14,0,107,RVSN USSR,russian federation,RVSN USSR (87),russian federation,russian federation (88),#16ed9a
-1971,119,105,12,2,0,14,0,119,RVSN USSR,russian federation,RVSN USSR (93),russian federation,russian federation (93),#16ed9a
-1972,99,89,7,3,0,10,0,99,RVSN USSR,russian federation,RVSN USSR (79),russian federation,russian federation (79),#16ed9a
-1973,103,96,7,0,0,7,0,103,RVSN USSR,russian federation,RVSN USSR (84),russian federation,russian federation (84),#16ed9a
-1974,98,90,7,1,0,8,0,98,RVSN USSR,russian federation,RVSN USSR (83),russian federation,russian federation (83),#16ed9a
-1975,113,107,6,0,0,6,0,113,RVSN USSR,russian federation,RVSN USSR (89),russian federation,russian federation (89),#16ed9a
-1976,113,108,3,2,0,5,0,113,RVSN USSR,russian federation,RVSN USSR (95),russian federation,russian federation (95),#16ed9a
-1977,114,110,4,0,0,4,0,114,RVSN USSR,russian federation,RVSN USSR (97),russian federation,russian federation (97),#16ed9a
-1978,97,94,1,2,0,3,0,97,RVSN USSR,russian federation,RVSN USSR (71),russian federation,russian federation (71),#16ed9a
-1979,49,46,2,1,0,3,0,49,RVSN USSR,russian federation,RVSN USSR (36),russian federation,russian federation (36),#16ed9a
-1980,55,49,3,3,0,6,0,55,RVSN USSR,russian federation,RVSN USSR (40),russian federation,russian federation (40),#16ed9a
-1981,71,65,2,4,0,6,0,71,RVSN USSR,russian federation,RVSN USSR (51),russian federation,russian federation (51),#16ed9a
-1982,67,62,3,2,0,5,1,66,RVSN USSR,russian federation,RVSN USSR (53),russian federation,russian federation (53),#16ed9a
-1983,66,65,1,0,0,1,1,65,RVSN USSR,russian federation,RVSN USSR (46),russian federation,russian federation (46),#16ed9a
-1984,69,66,1,2,0,3,1,68,RVSN USSR,russian federation,RVSN USSR (42),russian federation,russian federation (42),#16ed9a
-1985,74,68,5,1,0,6,1,73,RVSN USSR,russian federation,RVSN USSR (51),russian federation,russian federation (51),#16ed9a
-1986,62,56,4,2,0,6,1,61,RVSN USSR,russian federation,RVSN USSR (49),russian federation,russian federation (49),#16ed9a
-1987,56,53,2,1,0,3,2,54,RVSN USSR,russian federation,RVSN USSR (42),russian federation,russian federation (42),#16ed9a
-1988,59,57,1,1,0,2,1,58,RVSN USSR,russian federation,RVSN USSR (36),russian federation,russian federation (36),#16ed9a
-1989,52,50,1,1,0,2,0,52,RVSN USSR,russian federation,RVSN USSR (26),russian federation,russian federation (26),#16ed9a
-1990,78,74,3,1,0,4,1,77,RVSN USSR,russian federation,RVSN USSR (37),russian federation,russian federation (37),#16ed9a
-1991,58,53,3,2,0,5,0,58,RVSN USSR,russian federation,RVSN USSR (28),russian federation,russian federation (29),#16ed9a
-1992,62,59,3,0,0,3,2,60,VKS RF,russian federation,VKS RF (14),usa,usa (27),#44405a
-1993,61,57,4,0,0,4,2,59,VKS RF,russian federation,VKS RF (26),russian federation,russian federation (27),#16ed9a
-1994,64,58,4,2,0,6,5,59,VKS RF,russian federation,VKS RF (21),usa,usa (26),#44405a
-1995,61,53,5,3,0,8,1,60,Lockheed,usa,Lockheed (12),usa,usa (30),#44405a
-1996,60,56,3,1,0,4,6,54,VKS RF,russian federation,VKS RF (12),usa,usa (33),#44405a
-1997,70,64,3,3,0,6,13,57,Arianespace,france,Arianespace (10),usa,usa (38),#44405a
-1998,68,61,5,2,0,7,13,55,Boeing,usa,Boeing (10),usa,usa (36),#44405a
-1999,57,51,6,0,0,6,11,46,Arianespace,france,Arianespace (11),usa,usa (33),#44405a
-2000,57,53,4,0,0,4,11,46,Boeing,usa,Boeing (11),usa,usa (31),#44405a
-2001,43,40,1,2,0,3,6,37,Boeing,usa,Boeing (13),usa,usa (24),#44405a
-2002,49,47,2,0,0,2,9,40,Boeing,usa,Boeing (11),usa,usa (18),#44405a
-2003,52,48,3,0,1,4,16,36,Arianespace,france,Arianespace (12),usa,usa (26),#44405a
-2004,40,37,1,2,0,3,15,25,Arianespace,france,Arianespace (8),usa,usa (19),#44405a
-2005,37,34,3,0,0,3,16,21,Arianespace,france,Arianespace (12),usa,usa (16),#44405a
-2006,49,46,3,0,0,3,24,25,Boeing,usa,Boeing (9),usa,usa (23),#44405a
-2007,50,46,2,2,0,4,24,26,Boeing,usa,Boeing (8),usa,usa (20),#44405a
-2008,47,44,2,1,0,3,27,20,CASC,china,CASC (8),usa,usa (20),#44405a
-2009,50,47,3,0,0,3,22,28,Arianespace,france,Arianespace (5),usa,usa (26),#44405a
-2010,37,34,3,0,0,3,17,20,CASC,china,CASC (5),usa,usa (15),#44405a
-2011,42,40,1,1,0,2,28,14,VKS RF,russian federation,VKS RF (5),usa,usa (19),#44405a
-2012,38,34,3,1,0,4,29,9,Boeing,usa,Boeing (8),usa,usa (16),#44405a
-2013,46,43,2,1,0,3,27,19,ULA,usa,ULA (13),usa,usa (20),#44405a
-2014,53,51,1,1,0,2,33,20,CASC,china,CASC (8),usa,usa (24),#44405a
-2015,52,48,3,1,0,4,38,14,ULA,usa,ULA (16),usa,usa (22),#44405a
-2016,90,86,2,1,1,4,66,24,ULA,usa,ULA (8),usa,usa (27),#44405a
-2017,92,84,6,2,0,8,64,28,ULA,usa,ULA (11),usa,usa (30),#44405a
-2018,117,113,2,2,0,4,93,24,ULA,usa,ULA (10),china,china (39),#35c693
-2019,109,100,6,2,1,9,100,9,ULA,usa,ULA (11),china,china (34),#35c693
-2020,63,57,6,0,0,6,62,1,ULA,usa,ULA (14),china,china (22),#35c693
+1957,3,2,1,0,0,1,0,3,RVSN USSR,russian federation,RVSN USSR (2),russian federation,russian federation (2),#c76343
+1958,28,6,20,2,0,22,0,28,US Navy,usa,US Navy (12),usa,usa (23),#e607f3
+1959,20,8,9,3,0,12,0,20,US Air Force,usa,US Air Force (10),usa,usa (16),#e607f3
+1960,39,19,20,0,0,20,0,39,US Air Force,usa,US Air Force (21),usa,usa (30),#e607f3
+1961,52,32,17,3,0,20,0,52,US Air Force,usa,US Air Force (23),usa,usa (43),#e607f3
+1962,82,65,15,2,0,17,0,82,US Air Force,usa,US Air Force (41),usa,usa (60),#e607f3
+1963,41,29,12,0,0,12,0,41,RVSN USSR,russian federation,RVSN USSR (24),russian federation,russian federation (24),#c76343
+1964,60,48,10,2,0,12,0,60,RVSN USSR,russian federation,RVSN USSR (36),russian federation,russian federation (36),#c76343
+1965,87,74,11,2,0,13,0,87,RVSN USSR,russian federation,RVSN USSR (53),russian federation,russian federation (53),#c76343
+1966,101,81,10,9,1,20,0,101,RVSN USSR,russian federation,RVSN USSR (51),russian federation,russian federation (51),#c76343
+1967,106,87,11,8,0,19,0,106,RVSN USSR,russian federation,RVSN USSR (74),russian federation,russian federation (75),#c76343
+1968,103,92,6,5,0,11,0,103,RVSN USSR,russian federation,RVSN USSR (79),russian federation,russian federation (80),#c76343
+1969,103,85,17,1,0,18,0,103,RVSN USSR,russian federation,RVSN USSR (82),russian federation,russian federation (83),#c76343
+1970,107,93,10,4,0,14,0,107,RVSN USSR,russian federation,RVSN USSR (87),russian federation,russian federation (88),#c76343
+1971,119,105,12,2,0,14,0,119,RVSN USSR,russian federation,RVSN USSR (93),russian federation,russian federation (93),#c76343
+1972,99,89,7,3,0,10,0,99,RVSN USSR,russian federation,RVSN USSR (79),russian federation,russian federation (79),#c76343
+1973,103,96,7,0,0,7,0,103,RVSN USSR,russian federation,RVSN USSR (84),russian federation,russian federation (84),#c76343
+1974,98,90,7,1,0,8,0,98,RVSN USSR,russian federation,RVSN USSR (83),russian federation,russian federation (83),#c76343
+1975,113,107,6,0,0,6,0,113,RVSN USSR,russian federation,RVSN USSR (89),russian federation,russian federation (89),#c76343
+1976,113,108,3,2,0,5,0,113,RVSN USSR,russian federation,RVSN USSR (95),russian federation,russian federation (95),#c76343
+1977,114,110,4,0,0,4,0,114,RVSN USSR,russian federation,RVSN USSR (97),russian federation,russian federation (97),#c76343
+1978,97,94,1,2,0,3,0,97,RVSN USSR,russian federation,RVSN USSR (71),russian federation,russian federation (71),#c76343
+1979,49,46,2,1,0,3,0,49,RVSN USSR,russian federation,RVSN USSR (36),russian federation,russian federation (36),#c76343
+1980,55,49,3,3,0,6,0,55,RVSN USSR,russian federation,RVSN USSR (40),russian federation,russian federation (40),#c76343
+1981,71,65,2,4,0,6,0,71,RVSN USSR,russian federation,RVSN USSR (51),russian federation,russian federation (51),#c76343
+1982,67,62,3,2,0,5,1,66,RVSN USSR,russian federation,RVSN USSR (53),russian federation,russian federation (53),#c76343
+1983,66,65,1,0,0,1,1,65,RVSN USSR,russian federation,RVSN USSR (46),russian federation,russian federation (46),#c76343
+1984,69,66,1,2,0,3,1,68,RVSN USSR,russian federation,RVSN USSR (42),russian federation,russian federation (42),#c76343
+1985,74,68,5,1,0,6,1,73,RVSN USSR,russian federation,RVSN USSR (51),russian federation,russian federation (51),#c76343
+1986,62,56,4,2,0,6,1,61,RVSN USSR,russian federation,RVSN USSR (49),russian federation,russian federation (49),#c76343
+1987,56,53,2,1,0,3,2,54,RVSN USSR,russian federation,RVSN USSR (42),russian federation,russian federation (42),#c76343
+1988,59,57,1,1,0,2,1,58,RVSN USSR,russian federation,RVSN USSR (36),russian federation,russian federation (36),#c76343
+1989,52,50,1,1,0,2,0,52,RVSN USSR,russian federation,RVSN USSR (26),russian federation,russian federation (26),#c76343
+1990,78,74,3,1,0,4,1,77,RVSN USSR,russian federation,RVSN USSR (37),russian federation,russian federation (37),#c76343
+1991,58,53,3,2,0,5,0,58,RVSN USSR,russian federation,RVSN USSR (28),russian federation,russian federation (29),#c76343
+1992,62,59,3,0,0,3,2,60,VKS RF,russian federation,VKS RF (14),usa,usa (27),#e607f3
+1993,61,57,4,0,0,4,2,59,VKS RF,russian federation,VKS RF (26),russian federation,russian federation (27),#c76343
+1994,64,58,4,2,0,6,5,59,VKS RF,russian federation,VKS RF (21),usa,usa (26),#e607f3
+1995,61,53,5,3,0,8,1,60,Lockheed,usa,Lockheed (12),usa,usa (30),#e607f3
+1996,60,56,3,1,0,4,6,54,VKS RF,russian federation,VKS RF (12),usa,usa (33),#e607f3
+1997,70,64,3,3,0,6,13,57,Arianespace,france,Arianespace (10),usa,usa (38),#e607f3
+1998,68,61,5,2,0,7,13,55,Boeing,usa,Boeing (10),usa,usa (36),#e607f3
+1999,57,51,6,0,0,6,11,46,Arianespace,france,Arianespace (11),usa,usa (33),#e607f3
+2000,57,53,4,0,0,4,11,46,Boeing,usa,Boeing (11),usa,usa (31),#e607f3
+2001,43,40,1,2,0,3,6,37,Boeing,usa,Boeing (13),usa,usa (24),#e607f3
+2002,49,47,2,0,0,2,9,40,Boeing,usa,Boeing (11),usa,usa (18),#e607f3
+2003,52,48,3,0,1,4,16,36,Arianespace,france,Arianespace (12),usa,usa (26),#e607f3
+2004,40,37,1,2,0,3,15,25,Arianespace,france,Arianespace (8),usa,usa (19),#e607f3
+2005,37,34,3,0,0,3,16,21,Arianespace,france,Arianespace (12),usa,usa (16),#e607f3
+2006,49,46,3,0,0,3,24,25,Boeing,usa,Boeing (9),usa,usa (23),#e607f3
+2007,50,46,2,2,0,4,24,26,Boeing,usa,Boeing (8),usa,usa (20),#e607f3
+2008,47,44,2,1,0,3,27,20,CASC,china,CASC (8),usa,usa (20),#e607f3
+2009,50,47,3,0,0,3,22,28,Arianespace,france,Arianespace (5),usa,usa (26),#e607f3
+2010,37,34,3,0,0,3,17,20,CASC,china,CASC (5),usa,usa (15),#e607f3
+2011,42,40,1,1,0,2,28,14,VKS RF,russian federation,VKS RF (5),usa,usa (19),#e607f3
+2012,38,34,3,1,0,4,29,9,Boeing,usa,Boeing (8),usa,usa (16),#e607f3
+2013,46,43,2,1,0,3,27,19,ULA,usa,ULA (13),usa,usa (20),#e607f3
+2014,53,51,1,1,0,2,33,20,CASC,china,CASC (8),usa,usa (24),#e607f3
+2015,52,48,3,1,0,4,38,14,ULA,usa,ULA (16),usa,usa (22),#e607f3
+2016,90,86,2,1,1,4,66,24,ULA,usa,ULA (8),usa,usa (27),#e607f3
+2017,92,84,6,2,0,8,64,28,ULA,usa,ULA (11),usa,usa (30),#e607f3
+2018,117,113,2,2,0,4,93,24,ULA,usa,ULA (10),china,china (39),#25915d
+2019,109,100,6,2,1,9,100,9,ULA,usa,ULA (11),china,china (34),#25915d
+2020,63,57,6,0,0,6,62,1,ULA,usa,ULA (14),china,china (22),#25915d

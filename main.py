@@ -111,3 +111,7 @@ exec(open("scripts/plot_scripts/plot_9_missions_per_country.py").read())
 
 #Among the top organisations, how these distributed their launches over time?
 exec(open("scripts/plot_scripts/plot_10_organisations_yby.py").read())
+
+### --- Cold War Space Race: URSS vs USA --- ###
+#Final analysis regarding the space race origins
+exec(open("scripts/plot_scripts/plot_11_cold_war.py").read())
