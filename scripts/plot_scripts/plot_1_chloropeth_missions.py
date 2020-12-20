@@ -1,3 +1,5 @@
+# This script creates a chloropet chart to provide general information about the data and the countries involved
+
 #Read sample dataset with countries iso codes for a chloropeth plot
 df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_world_gdp_with_codes.csv')[['COUNTRY','CODE']]
 
