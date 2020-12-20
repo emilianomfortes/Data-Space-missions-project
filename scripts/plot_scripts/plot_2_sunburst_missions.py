@@ -1,5 +1,4 @@
-# This script creats a sunburst chart to provide general information about the data
-data = pd.read_csv('data/missions_formatted.csv')
+# This script creates a sunburst chart to provide general information about the data
 
 #Dictionary of color per country
 colorMapSubset = data[['Country','Color']].drop_duplicates().reset_index(drop=True)

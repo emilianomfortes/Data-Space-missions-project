@@ -1,4 +1,5 @@
 ### --- Libraries --- ###
+
 #Essentials
 import numpy as np
 import random
@@ -33,6 +34,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import psutil
 
+
 ### --- Changed and leased countries --- ###
 #More information regarding this can be seen in the colab notebook. Basically, since the beginning of the space race and up to date, countries have changed names or leased their territory to other country
 
@@ -63,16 +65,38 @@ leased_countries = {'russia':'russian federation',
                      'french guiana, france':'france'}
 
 
+
 ### --- Data cleansing --- ###
 
 # Remove duplicates, useless columns, change format of columns and reshape information that will be useful. Please watch the notebook for detailed information or open the data_cleanse script
-
 exec(open("scripts/data_cleanse.py").read()) #Saves new dataframe as "data/missions_formatted.csv"
 data = pd.read_csv('data/missions_formatted.csv')
 
-### --- Generating Plots --- ###
+#Create a dataframe which stores relevant year by year information about the missions
+exec(open("scripts/data_year-by-year.py").read())
+yby = pd.read_csv('data/data_yby.csv')
+
+
+### --- Generating plots --- ###
 
 ## -- Chloropet map -- ##
-
 exec(open("scripts/plot_scripts/plot_1_chloropeth_missions.py").read())
+## -- Sunburst chart -- ##
 exec(open("scripts/plot_scripts/plot_2_sunburst_missions.py").read())
+
+
+### --- Year by year plots --- ###
+
+#Number of missions per year
+exec(open("scripts/plot_scripts/plot_3_missions_per_year.py").read())
+
+#Distribution of successful and failed missions, and how many of the successful ones still possees an active rocket
+exec(open("scripts/plot_scripts/plot_4_status_mission_and_rocket.py").read())
+
+#Percentage of failed missions over time (year by year)
+exec(open("scripts/plot_scripts/plot_5_percentage_failures.py").read())
+
+#Money spent year by year by all countries (a lot of missing information on this section of the dataset)
+exec(open("scripts/plot_scripts/plot_6_money_by_year.py").read())
+
+
