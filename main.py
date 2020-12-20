@@ -32,6 +32,7 @@ class ChainedAssignent:
 import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 import psutil
 
 
@@ -99,4 +100,14 @@ exec(open("scripts/plot_scripts/plot_5_percentage_failures.py").read())
 #Money spent year by year by all countries (a lot of missing information on this section of the dataset)
 exec(open("scripts/plot_scripts/plot_6_money_by_year.py").read())
 
+#Analyze the top candidates on the space missions: Organisations and countries
+exec(open("scripts/plot_scripts/plot_7_big_fish.py").read())
 
+#Number of missions per organisation
+exec(open("scripts/plot_scripts/plot_8_missions_per_org.py").read())
+
+#Number of missions per country
+exec(open("scripts/plot_scripts/plot_9_missions_per_country.py").read())
+
+#Among the top organisations, how these distributed their launches over time?
+exec(open("scripts/plot_scripts/plot_10_organisations_yby.py").read())
