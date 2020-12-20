@@ -24,12 +24,12 @@ countrylist = np.array(list(pycountry.countries))
 countrieslist = []
 for i in range(len(countrylist)):
     countrieslist.append(countrylist[i].name.lower())
+#Some countries are not listed or listed under a different name
 countrieslist.append('usa')
 countrieslist.append('iran')
 countrieslist.append('north korea')
 countrieslist.append('south korea')
-#print(data['Location_Country'].unique())
-#print(data['Country'].unique())
+
 
 ## -- data.Location.map(lambda x: x.split()) -- ##
 data['Location_Country'] = data.Location.map(lambda x: [word for word in countrieslist if word in x])
@@ -89,7 +89,7 @@ print('Number of entries before dropping duplicates = '+str(len(data)))
 data = data.drop_duplicates()
 print('Number of entries after dropping duplicates = '+str(len(data)))
 
-
+## -- Keep what we need -- ##
 data = data[['Organisation','Country','Color','Year','Year/Month','Location','Location_Country','Price','Mission_Status','Rocket_Status','Date']]
 data.to_csv('data/missions_formatted.csv',index=False)
 print('Saved the new dataframe as "data/missions_formatted.csv"')
