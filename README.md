@@ -2,7 +2,7 @@
 
 The space missions project is the exercise 98 (Day 98) proposed by the course <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code - The Complete Python Pro Bootcamp for 2021</a> and taught by Dr. Angela Yu. It is an exercise with no solutions provided to the student, and I was the first to submit a finished version since the course launched.
 
-The completed code has been organized visually in the following <a href="https://colab.research.google.com/drive/1LgG0qQJcgVFcL0FGPRC6kgRBEPoDNxE7?usp=sharing">notebook</a>
+The completed code has been organized visually in the following <a href="https://colab.research.google.com/drive/1LgG0qQJcgVFcL0FGPRC6kgRBEPoDNxE7?usp=sharing">notebook</a>. A static jupyter notebook is also provided on the repository, but they lose the interactivity which make them good. Also, a couple of them get rendered on a weird fashion when not using the interactivity. 
 
 The exercise's goal is to do a thorough analysis of the space race since it began in 1957 and up to date. The main takeaway from this exercise is how to create amazing interactive plots with very detailed information using Plotly.
 
