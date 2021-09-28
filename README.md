@@ -7,5 +7,3 @@ The complete code has been organized visually in the following <a href="https://
 The goal is to do a thorough analysis of the space race, which started in 1957 and continues up to date. The main takeaway from this exercise is how to create amazing interactive plots with very detailed information using Plotly.
 
 **Remark 1**. This is a re-upload from my old GitHub account. Therefore, if you take a look at the commits, they have been pushed the same day. Nonetheless, I tried to recreate how the commits occurred when I created this project the first time (from 2020-12-10 to 2020-12-20).
-
-**Remark 2**. Notebooks are great, and a fundamental part of any aspiring Data Scientist’s portfolio, but they do not reproduce a real work scenario. That being said, I chose a google-colab notebook to illustrate the main results in an organized fashion for whoever inspects the project.
